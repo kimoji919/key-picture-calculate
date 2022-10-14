@@ -1,4 +1,4 @@
-# RSA-WEB
+# Secret-Cal
 
 ### 团队介绍
 > 徐明威同学完成科学计算器的功能实现及UI设计、附加项目前端界面的设计、路由设计实现、后端框架
@@ -55,8 +55,9 @@ src
 |	└── /index.js		路由
 |── views  			
 |	└── /mode2.vue		功能面板
-|   └── /cal.vue        计算器
-|   └── /login.vue      主页面
+|   	└── /cal.vue        计算器
+|   	└── /login.vue      主页面
+|    	└── /about.vue      关于
 |── main.js  			主函数
 └── App.vue  			vue入口
 
